@@ -1,0 +1,6 @@
+{
+  "name": "DY Patil TechVerse",
+  "description": "Peer-reviewed technical publishing platform for college students, featuring editorial moderation, verified student authoring, and monthly peer leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
